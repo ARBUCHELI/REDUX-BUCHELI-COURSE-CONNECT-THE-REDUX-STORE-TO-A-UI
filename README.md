@@ -9,6 +9,7 @@
 ```
 const { createStore } = require('redux');
 ```
+* This is a browser example.  It's not necessary to install Node.js
 * If you are using Redux without React don't forget to include the following scripts (These scripts depend of the context):
 ```
 <script src="https://content.codecademy.com/courses/React/react-16-redux-4-bundle.min.js"></script>
